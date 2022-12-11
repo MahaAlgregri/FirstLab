@@ -17,6 +17,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Good morening, I'm Maha");
+        System.out.println("No sleep");
     }
     
 }
